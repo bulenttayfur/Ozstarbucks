@@ -1,0 +1,22 @@
+.sorutalep {
+    color: #212529;
+}
+
+.sorutalep form {
+    padding-left: 100px;
+}
+
+.sorutalep h2 {
+    color: #fd7e14;
+    text-align: center;
+}
+
+.sorutalep span {
+    font-weight: 700;
+    color: #087f5b;
+
+}
+
+.sorutalep form {
+    border: solid #087f5b;
+}

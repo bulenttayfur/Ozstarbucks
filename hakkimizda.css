@@ -1,0 +1,43 @@
+.hakkimizda h2 {
+    background-color: #fd7e14;
+    color: #fff;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 30px;
+}
+
+.hakkimizda section {
+    border: solid #087f5b 5px;
+}
+
+.hakkimizda p {
+    line-height: 1.5;
+    text-align: center;
+    color: #212529;
+    font-size: 20px;
+    padding: 20px;
+}
+
+.hakkimizda form {
+    text-align: center;
+}
+
+.hakkimizda input {
+    background-color: #087f5b;
+}
+
+.hakkimizda ::placeholder {
+    color: #fff;
+}
+
+.hakkimizda button {
+    background-color: #fd7e14;
+    color: #212529;
+    border-radius: 15px;
+}
+
+.hakkimizda button:hover {
+    background-color: #087f5b;
+    color: #fff;
+}
+

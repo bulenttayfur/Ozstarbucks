@@ -1,0 +1,45 @@
+
+
+.indexmain h2{
+    background-color: #fd7e14;
+    color: #fff;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 30px;
+}
+
+.indexmain section {
+    border: solid #087f5b 5px;
+}
+
+.indexmain p {
+    line-height: 1.5;
+    text-align: center;
+    color: #212529;
+    font-size: 20px;
+    padding: 20px;
+}
+
+.indexmain article {
+    display: block;
+    font-size: 25px;
+    color: #087f5b;
+    text-align: center;
+    font-weight: 800;
+}
+
+.indexmain img {
+    display: block;
+    margin: auto;
+}
+
+.indexmain a {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    color: #212529;
+}
+
+.indexmain a:hover {
+    color: #087f5b;
+}

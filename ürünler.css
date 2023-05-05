@@ -1,0 +1,39 @@
+.ürünler section {
+    border: solid #087f5b 5px;
+}
+
+.ürünler h2 {
+    background-color: #fd7e14;
+    color: #fff;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 30px;
+}
+
+.ürünler ul {
+    line-height: 1.5;
+    text-align: center;
+    color: #212529;
+    font-size: 15px;
+    padding: 20px;
+}
+
+.ürünler img {
+    display: block;
+    margin: auto;
+}
+
+
+#yeniürünyazı {
+    background-color: #087f5b;
+    color: #fff;
+    text-align: center;
+    display: block;
+    font-size: 30px;
+    padding: 5px;
+    font-weight: 700;
+}
+
+
+
+
